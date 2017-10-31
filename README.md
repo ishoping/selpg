@@ -1,4 +1,4 @@
-
+![](https://travis-ci.org/ishoping/selpg.svg?branch=master)
 设计说明
 selpg可以从输入中选取某些页输出，具体请看以下链接
 https://www.ibm.com/developerworks/cn/linux/shell/clutil/index.html
